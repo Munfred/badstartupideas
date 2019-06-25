@@ -1,0 +1,2 @@
+# badstartupideas
+Bad Startup Ideas

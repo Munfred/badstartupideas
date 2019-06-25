@@ -19,4 +19,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1336798/
 https://www.haaretz.com/israel-news/.premium-israeli-rabbinate-accused-of-using-dna-testing-to-prove-jewishness-1.6902132
 https://www.the-scientist.com/daily-news/genetic-roots-of-the-ashkenazi-jews-38580
 
+# Twitbots: "We make twitter bots at scale"
+Leekuanbot (happening)
+Linusbot (linuxhatebot)
 

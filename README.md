@@ -19,7 +19,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1336798/
 https://www.haaretz.com/israel-news/.premium-israeli-rabbinate-accused-of-using-dna-testing-to-prove-jewishness-1.6902132
 https://www.the-scientist.com/daily-news/genetic-roots-of-the-ashkenazi-jews-38580
 
-# Twitbots: "We make twitter bots at scale"
+## Twitbots: "We make twitter bots at scale"
 Leekuanbot (happening)
 Linusbot (linuxhatebot)
 
+## Gardenbreak
+The key to our dreams is to make a modified version of android that runs on a server (controlled by you) where you install all the apps you receive messages (so not only messaging specific apps whatswapp, fb, slack, hangouts, but also things like airbnb, uber, turo, where you may on occasion receive in app messages) the modified android OS will then collect the messages (since we know android has access to these in order to give you notifications) and will relay them to matrix, which can be hosted on the same server. You could have one or more matrix servers mirroing each other for added resilience. But its all owned by you, on your servers. Thats how we break the gardens.

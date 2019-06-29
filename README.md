@@ -40,5 +40,6 @@ optopain.com is available
 ## moneter (sounds like monero and ether had a merge lolz, but was meant to be a mispronounciation of money eater)
 Come up with a machine that is more fun and better at eating your money than slot machines, patent, license to casinos for a slice of the revenue.
 
-
+## guilt free kombucha
+Develop a metric for single cell RNA sequencing pathways called agony then minimize that in your cultured products
 

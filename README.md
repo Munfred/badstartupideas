@@ -43,3 +43,7 @@ Come up with a machine that is more fun and better at eating your money than slo
 ## guilt free kombucha
 Develop a metric for single cell RNA sequencing pathways called agony then minimize that in your cultured products
 
+#KSTS: Kool Stock Ticket Symbols
+It's like brokering domain names, but in a..different domain. 
+- https://www.barrons.com/articles/stock-ticker-symbols-performance-51562102318?mod=hp_LATEST
+

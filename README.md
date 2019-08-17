@@ -47,3 +47,6 @@ Develop a metric for single cell RNA sequencing pathways called agony then minim
 It's like brokering domain names, but in a..different domain. 
 - https://www.barrons.com/articles/stock-ticker-symbols-performance-51562102318?mod=hp_LATEST
 
+## Derp Domain Brokering
+Make a neural network that comes up with strings that sounds like words that sound like things then buy the .com and upsell it
+
